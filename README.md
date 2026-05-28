@@ -42,22 +42,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/soygab/soygab/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/soygab/soygab/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/soygab/soygab/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
 </div>
 
 ###
