@@ -44,7 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/soygab/soygab/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
