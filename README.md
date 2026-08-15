@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center">Estudante de Engenharia de Software cursando o 3° período pela Universidade Geraldo di Biase.<br>Atualmente me dedicando ao desenvolvimento front-end.</p>
+<p align="center">Estudante de Engenharia de Software cursando o 4° período pela Universidade Geraldo di Biase.<br>Atualmente me dedicando ao desenvolvimento front-end.</p>
 
 <br clear="both">
 
