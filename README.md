@@ -96,29 +96,21 @@ Meu foco está na criação de projetos reais enquanto aprimoro continuamente mi
 
 <td width="50%" valign="top">
 
-### Portfolio
+### <a href="https://github.com/soygab/portfolio">Portfolio</a>
 
 Portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e evolução como desenvolvedor.
 
 <br>
 
-<a href="https://github.com/soygab/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soygab&repo=portfolio&theme=github_dark&hide_border=true&bg_color=020617&title_color=3B82F6&icon_color=3B82F6&text_color=CBD5E1"/>
-</a>
-
 </td>
 
 <td width="50%" valign="top">
 
-### Renan Barber
+### <a href="https://github.com/soygab/sistema-renanbarber">Renan Barber</a>
 
 Sistema para barbearia desenvolvido para gerenciamento de serviços, clientes e agendamentos.
 
 <br>
-
-<a href="https://github.com/soygab/sistema-renanbarber">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soygab&repo=sistema-renanbarber&theme=github_dark&hide_border=true&bg_color=020617&title_color=3B82F6&icon_color=3B82F6&text_color=CBD5E1"/>
-</a>
 
 </td>
 
@@ -128,29 +120,21 @@ Sistema para barbearia desenvolvido para gerenciamento de serviços, clientes e 
 
 <td width="50%" valign="top">
 
-### Nexo
+### <a href="https://github.com/soygab/projeto-nexo">Nexo</a>
 
 Plataforma acadêmica criada para conectar estudantes, projetos, ideias, discussões e oportunidades dentro do ambiente universitário.
 
 <br>
 
-<a href="https://github.com/soygab/projeto-nexo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soygab&repo=projeto-nexo&theme=github_dark&hide_border=true&bg_color=020617&title_color=3B82F6&icon_color=3B82F6&text_color=CBD5E1"/>
-</a>
-
 </td>
 
 <td width="50%" valign="top">
 
-### Rock & Ribs
+### <a href="https://github.com/soygab/rock-ribs">Rock & Ribs</a>
 
 Website desenvolvido para o Rock & Ribs Volta Redonda, apresentando o restaurante, eventos, experiências e informações da unidade.
 
 <br>
-
-<a href="https://github.com/soygab/rock-ribs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soygab&repo=rock-ribs&theme=github_dark&hide_border=true&bg_color=020617&title_color=3B82F6&icon_color=3B82F6&text_color=CBD5E1"/>
-</a>
 
 </td>
 
