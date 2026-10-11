@@ -96,9 +96,9 @@ Meu foco está na criação de projetos reais enquanto aprimoro continuamente mi
 
 <td width="50%" valign="top">
 
-### <a href="https://github.com/soygab/portfolio">Portfolio</a>
+### <a href="https://github.com/soygab/AlertaBairro">Alerta Bairro</a>
 
-Portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e evolução como desenvolvedor.
+Plataforma para registrar e acompanhar problemas urbanos, promovendo a participação dos moradores e a melhoria da comunidade.
 
 <br>
 
